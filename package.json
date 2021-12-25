@@ -1,0 +1,16 @@
+{
+  "name": "AshleyCloner",
+  "version": "1.0.0",
+  "description": "Cloner Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "ashley.#5931",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^7.3.3",
+    "retry-axios": "^2.4.0"
+  }
+}
